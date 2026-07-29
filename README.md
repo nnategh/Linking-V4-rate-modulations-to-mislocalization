@@ -6,7 +6,7 @@ MATLAB and Python code for:
 - `scripts/` — scripts that load data and generate figures
 - `functions/` — analysis functions
 - `data/` — location for `.mat` files
-- `decoder/` — # Python: Neural decoding workflow (PCA-GPR)
+- `decoder/` — Python neural decoding workflow (PCA-GPR)
 
 ## Figure mapping
 
