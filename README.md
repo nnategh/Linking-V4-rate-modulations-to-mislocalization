@@ -16,7 +16,7 @@ MATLAB and Python code for:
 | `plot_modulation_index.m` | Fig. 2, Fig. 4C-D |
 | `plot_center_of_mass.m` | Fig. 3B-C |
 
-## Decoder files (`decoder/`)
+**Decoder files** (`decoder/`)
 
 - `GPR_param_search.py` — Stage 1: shared GPR alpha parameter search
 - `GPR_cross_test.py` — Stage 2: cross-condition decoding & statistical testing
